@@ -1,6 +1,6 @@
 # A02
 
-# PART 1: Directions.
+# PART 1: Directions
   1. Download your preferred IDE; most preferred is [Visual Studio Code](https://code.visualstudio.com), but [Webstorm](https://www.jetbrains.com/webstorm/) is also recommended. 
   2. Download [**GIT**](https://git-scm.com)
   3. Follow the directions through the *GIT* installation.
@@ -11,7 +11,7 @@
   8. Finally, users can **push**, **pull**, and etc. content between IDE and **Github**. 
 
  
-# Part 2: Glossary
+# PART 2: Glossary
 Branch: a pointer to a commit that allows you to work on code separate from the main code. 
 
 Clone: copying the repository onto the local machine. 
